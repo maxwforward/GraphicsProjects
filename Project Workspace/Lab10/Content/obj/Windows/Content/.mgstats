@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/maxfo/Documents/School/CPI 411 - Graphics for Games/Project Workspace/Lab10/Content/fire.png","C:/Users/maxfo/Documents/School/CPI 411 - Graphics for Games/Project Workspace/Lab10/Content/bin/Windows/Content/fire.xnb","TextureProcessor","Texture2DContent",146324,262229,0.4399673
+"C:/Users/maxfo/Documents/School/CPI 411 - Graphics for Games/Project Workspace/Lab10/Content/ParticleShader.fx","C:/Users/maxfo/Documents/School/CPI 411 - Graphics for Games/Project Workspace/Lab10/Content/bin/Windows/Content/ParticleShader.xnb","EffectProcessor","CompiledEffectContent",3604,2048,0.3271478
+"C:/Users/maxfo/Documents/School/CPI 411 - Graphics for Games/Project Workspace/Lab10/Content/torus.FBX","C:/Users/maxfo/Documents/School/CPI 411 - Graphics for Games/Project Workspace/Lab10/Content/bin/Windows/Content/torus.xnb","ModelProcessor","ModelContent",65056,53689,0.2610472

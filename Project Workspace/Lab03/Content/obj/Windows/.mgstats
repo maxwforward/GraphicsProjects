@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/maxfo/Documents/School/CPI 411 - Graphics for Games/CPI411 2020/CPI411 2020/Lab03/Content/bunny.FBX","C:/Users/maxfo/Documents/School/CPI 411 - Graphics for Games/CPI411 2020/CPI411 2020/Lab03/Content/bin/Windows/bunny.xnb","ModelProcessor","ModelContent",2733392,1254683,0.4686411
+"C:/Users/maxfo/Documents/School/CPI 411 - Graphics for Games/CPI411 2020/CPI411 2020/Lab03/Content/Diffuse.fx","C:/Users/maxfo/Documents/School/CPI 411 - Graphics for Games/CPI411 2020/CPI411 2020/Lab03/Content/bin/Windows/Diffuse.xnb","EffectProcessor","CompiledEffectContent",1091,2034,0.2031206

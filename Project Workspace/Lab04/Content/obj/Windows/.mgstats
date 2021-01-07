@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/maxfo/Documents/School/CPI 411 - Graphics for Games/Project Workspace/Lab04/Content/Crank100k.obj","C:/Users/maxfo/Documents/School/CPI 411 - Graphics for Games/Project Workspace/Lab04/Content/bin/Windows/Crank100k.xnb","ModelProcessor","ModelContent",8384290,3202003,0.9043845
+"C:/Users/maxfo/Documents/School/CPI 411 - Graphics for Games/Project Workspace/Lab04/Content/SimpleShader.fx","C:/Users/maxfo/Documents/School/CPI 411 - Graphics for Games/Project Workspace/Lab04/Content/bin/Windows/SimpleShader.xnb","EffectProcessor","CompiledEffectContent",4801,4636,0.2765277
+"C:/Users/maxfo/Documents/School/CPI 411 - Graphics for Games/Project Workspace/Lab04/Content/Torus.FBX","C:/Users/maxfo/Documents/School/CPI 411 - Graphics for Games/Project Workspace/Lab04/Content/bin/Windows/Torus.xnb","ModelProcessor","ModelContent",65408,53689,0.0751425

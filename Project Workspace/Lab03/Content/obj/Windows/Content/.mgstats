@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/maxfo/Documents/School/CPI 411 - Graphics for Games/Project Workspace/Lab03/Content/bunny.FBX","C:/Users/maxfo/Documents/School/CPI 411 - Graphics for Games/Project Workspace/Lab03/Content/bin/Windows/Content/bunny.xnb","ModelProcessor","ModelContent",2733392,1254683,0.9684119
+"C:/Users/maxfo/Documents/School/CPI 411 - Graphics for Games/Project Workspace/Lab03/Content/Diffuse.fx","C:/Users/maxfo/Documents/School/CPI 411 - Graphics for Games/Project Workspace/Lab03/Content/bin/Windows/Content/Diffuse.xnb","EffectProcessor","CompiledEffectContent",1236,2034,0.2652917

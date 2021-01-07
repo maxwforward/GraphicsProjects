@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/maxfo/Documents/School/CPI 411 - Graphics for Games/Project Workspace/FinalProject/Content/chapel.png</File>
+    <File>C:/Users/maxfo/Documents/School/CPI 411 - Graphics for Games/Project Workspace/FinalProject/Content/Gear1.x</File>
+    <File>C:/Users/maxfo/Documents/School/CPI 411 - Graphics for Games/Project Workspace/FinalProject/Content/Gear2.x</File>
+    <File>C:/Users/maxfo/Documents/School/CPI 411 - Graphics for Games/Project Workspace/FinalProject/Content/Gear3.x</File>
+    <File>C:/Users/maxfo/Documents/School/CPI 411 - Graphics for Games/Project Workspace/FinalProject/Content/glass.png</File>
+    <File>C:/Users/maxfo/Documents/School/CPI 411 - Graphics for Games/Project Workspace/FinalProject/Content/lensFlare.png</File>
+    <File>C:/Users/maxfo/Documents/School/CPI 411 - Graphics for Games/Project Workspace/FinalProject/Content/LightShafts.fx</File>
+    <File>C:/Users/maxfo/Documents/School/CPI 411 - Graphics for Games/Project Workspace/FinalProject/Content/LinearFilter.fx</File>
+    <File>C:/Users/maxfo/Documents/School/CPI 411 - Graphics for Games/Project Workspace/FinalProject/Content/ModelShader.fx</File>
+    <File>C:/Users/maxfo/Documents/School/CPI 411 - Graphics for Games/Project Workspace/FinalProject/Content/mosaic.png</File>
+    <File>C:/Users/maxfo/Documents/School/CPI 411 - Graphics for Games/Project Workspace/FinalProject/Content/Occlusion.fx</File>
+    <File>C:/Users/maxfo/Documents/School/CPI 411 - Graphics for Games/Project Workspace/FinalProject/Content/Text.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

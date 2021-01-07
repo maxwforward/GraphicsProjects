@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/maxfo/Desktop/From hard Drive/Project Workspace/Assignment3/Content/Font.spritefont</SourceFile>
+  <SourceTime>2020-03-23T23:42:12.2085315-07:00</SourceTime>
+  <DestFile>C:/Users/maxfo/Desktop/From hard Drive/Project Workspace/Assignment3/Content/bin/Windows/Content/Font.xnb</DestFile>
+  <DestTime>2020-10-31T20:12:19.788573-07:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-12-08T08:35:54-08:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-12-08T08:35:54-08:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/maxfo/Documents/School/CPI 411 - Graphics for Games/Project Workspace/Lab03/Content/Diffuse.fx</SourceFile>
+  <SourceTime>2020-02-14T00:59:15.5712187-07:00</SourceTime>
+  <DestFile>C:/Users/maxfo/Documents/School/CPI 411 - Graphics for Games/Project Workspace/Lab03/Content/bin/Windows/Content/Diffuse.xnb</DestFile>
+  <DestTime>2020-02-14T01:50:46.5452391-07:00</DestTime>
+  <Importer>EffectImporter</Importer>
+  <ImporterTime>2018-12-08T09:35:54-07:00</ImporterTime>
+  <Processor>EffectProcessor</Processor>
+  <ProcessorTime>2018-12-08T09:35:54-07:00</ProcessorTime>
+  <Parameters>
+    <Key>DebugMode</Key>
+    <Value>Auto</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

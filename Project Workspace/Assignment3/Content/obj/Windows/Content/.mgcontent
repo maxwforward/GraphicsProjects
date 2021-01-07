@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/maxfo/Desktop/From hard Drive/Project Workspace/Assignment3/Content/BumpMapping.fx</File>
+    <File>C:/Users/maxfo/Desktop/From hard Drive/Project Workspace/Assignment3/Content/Font.spritefont</File>
+    <File>C:/Users/maxfo/Desktop/From hard Drive/Project Workspace/Assignment3/Content/NormalMaps/art.PNG</File>
+    <File>C:/Users/maxfo/Desktop/From hard Drive/Project Workspace/Assignment3/Content/NormalMaps/BumpTest.png</File>
+    <File>C:/Users/maxfo/Desktop/From hard Drive/Project Workspace/Assignment3/Content/NormalMaps/crossHatch.png</File>
+    <File>C:/Users/maxfo/Desktop/From hard Drive/Project Workspace/Assignment3/Content/NormalMaps/monkey.png</File>
+    <File>C:/Users/maxfo/Desktop/From hard Drive/Project Workspace/Assignment3/Content/NormalMaps/nm.dds</File>
+    <File>C:/Users/maxfo/Desktop/From hard Drive/Project Workspace/Assignment3/Content/NormalMaps/round.png</File>
+    <File>C:/Users/maxfo/Desktop/From hard Drive/Project Workspace/Assignment3/Content/NormalMaps/saint.png</File>
+    <File>C:/Users/maxfo/Desktop/From hard Drive/Project Workspace/Assignment3/Content/NormalMaps/science.PNG</File>
+    <File>C:/Users/maxfo/Desktop/From hard Drive/Project Workspace/Assignment3/Content/NormalMaps/square.png</File>
+    <File>C:/Users/maxfo/Desktop/From hard Drive/Project Workspace/Assignment3/Content/skybox/cube.fbx</File>
+    <File>C:/Users/maxfo/Desktop/From hard Drive/Project Workspace/Assignment3/Content/skybox/nvlobby_new_negx.png</File>
+    <File>C:/Users/maxfo/Desktop/From hard Drive/Project Workspace/Assignment3/Content/skybox/nvlobby_new_negy.png</File>
+    <File>C:/Users/maxfo/Desktop/From hard Drive/Project Workspace/Assignment3/Content/skybox/nvlobby_new_negz.png</File>
+    <File>C:/Users/maxfo/Desktop/From hard Drive/Project Workspace/Assignment3/Content/skybox/nvlobby_new_posx.png</File>
+    <File>C:/Users/maxfo/Desktop/From hard Drive/Project Workspace/Assignment3/Content/skybox/nvlobby_new_posy.png</File>
+    <File>C:/Users/maxfo/Desktop/From hard Drive/Project Workspace/Assignment3/Content/skybox/nvlobby_new_posz.png</File>
+    <File>C:/Users/maxfo/Desktop/From hard Drive/Project Workspace/Assignment3/Content/skybox/Skybox.fx</File>
+    <File>C:/Users/maxfo/Desktop/From hard Drive/Project Workspace/Assignment3/Content/Torus.FBX</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

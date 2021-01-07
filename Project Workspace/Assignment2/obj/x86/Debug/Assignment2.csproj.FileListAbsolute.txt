@@ -1,0 +1,65 @@
+C:\Users\maxfo\Documents\School\CPI 411 - Graphics for Games\Project Workspace\Assignment2\bin\Windows\x86\Debug\Content\Environment Maps\debug_negx.xnb
+C:\Users\maxfo\Documents\School\CPI 411 - Graphics for Games\Project Workspace\Assignment2\bin\Windows\x86\Debug\Content\Environment Maps\debug_negy.xnb
+C:\Users\maxfo\Documents\School\CPI 411 - Graphics for Games\Project Workspace\Assignment2\bin\Windows\x86\Debug\Content\Environment Maps\debug_negz.xnb
+C:\Users\maxfo\Documents\School\CPI 411 - Graphics for Games\Project Workspace\Assignment2\bin\Windows\x86\Debug\Content\Environment Maps\debug_posx.xnb
+C:\Users\maxfo\Documents\School\CPI 411 - Graphics for Games\Project Workspace\Assignment2\bin\Windows\x86\Debug\Content\Environment Maps\debug_posy.xnb
+C:\Users\maxfo\Documents\School\CPI 411 - Graphics for Games\Project Workspace\Assignment2\bin\Windows\x86\Debug\Content\Environment Maps\debug_posz.xnb
+C:\Users\maxfo\Documents\School\CPI 411 - Graphics for Games\Project Workspace\Assignment2\bin\Windows\x86\Debug\Content\Environment Maps\grandcanyon_negx.xnb
+C:\Users\maxfo\Documents\School\CPI 411 - Graphics for Games\Project Workspace\Assignment2\bin\Windows\x86\Debug\Content\Environment Maps\grandcanyon_negy.xnb
+C:\Users\maxfo\Documents\School\CPI 411 - Graphics for Games\Project Workspace\Assignment2\bin\Windows\x86\Debug\Content\Environment Maps\grandcanyon_negz.xnb
+C:\Users\maxfo\Documents\School\CPI 411 - Graphics for Games\Project Workspace\Assignment2\bin\Windows\x86\Debug\Content\Environment Maps\grandcanyon_posx.xnb
+C:\Users\maxfo\Documents\School\CPI 411 - Graphics for Games\Project Workspace\Assignment2\bin\Windows\x86\Debug\Content\Environment Maps\grandcanyon_posy.xnb
+C:\Users\maxfo\Documents\School\CPI 411 - Graphics for Games\Project Workspace\Assignment2\bin\Windows\x86\Debug\Content\Environment Maps\grandcanyon_posz.xnb
+C:\Users\maxfo\Documents\School\CPI 411 - Graphics for Games\Project Workspace\Assignment2\bin\Windows\x86\Debug\Content\Environment Maps\nvlobby_new_negx.xnb
+C:\Users\maxfo\Documents\School\CPI 411 - Graphics for Games\Project Workspace\Assignment2\bin\Windows\x86\Debug\Content\Environment Maps\nvlobby_new_negy.xnb
+C:\Users\maxfo\Documents\School\CPI 411 - Graphics for Games\Project Workspace\Assignment2\bin\Windows\x86\Debug\Content\Environment Maps\nvlobby_new_negz.xnb
+C:\Users\maxfo\Documents\School\CPI 411 - Graphics for Games\Project Workspace\Assignment2\bin\Windows\x86\Debug\Content\Environment Maps\nvlobby_new_posx.xnb
+C:\Users\maxfo\Documents\School\CPI 411 - Graphics for Games\Project Workspace\Assignment2\bin\Windows\x86\Debug\Content\Environment Maps\nvlobby_new_posy.xnb
+C:\Users\maxfo\Documents\School\CPI 411 - Graphics for Games\Project Workspace\Assignment2\bin\Windows\x86\Debug\Content\Environment Maps\nvlobby_new_posz.xnb
+C:\Users\maxfo\Documents\School\CPI 411 - Graphics for Games\Project Workspace\Assignment2\bin\Windows\x86\Debug\Content\Environment Maps\space_negx.xnb
+C:\Users\maxfo\Documents\School\CPI 411 - Graphics for Games\Project Workspace\Assignment2\bin\Windows\x86\Debug\Content\Environment Maps\space_negy.xnb
+C:\Users\maxfo\Documents\School\CPI 411 - Graphics for Games\Project Workspace\Assignment2\bin\Windows\x86\Debug\Content\Environment Maps\space_negz.xnb
+C:\Users\maxfo\Documents\School\CPI 411 - Graphics for Games\Project Workspace\Assignment2\bin\Windows\x86\Debug\Content\Environment Maps\space_posx.xnb
+C:\Users\maxfo\Documents\School\CPI 411 - Graphics for Games\Project Workspace\Assignment2\bin\Windows\x86\Debug\Content\Environment Maps\space_posy.xnb
+C:\Users\maxfo\Documents\School\CPI 411 - Graphics for Games\Project Workspace\Assignment2\bin\Windows\x86\Debug\Content\Environment Maps\space_posz.xnb
+C:\Users\maxfo\Documents\School\CPI 411 - Graphics for Games\Project Workspace\Assignment2\bin\Windows\x86\Debug\Content\skybox\cube.xnb
+C:\Users\maxfo\Documents\School\CPI 411 - Graphics for Games\Project Workspace\Assignment2\bin\Windows\x86\Debug\Content\skybox\Skybox.xnb
+C:\Users\maxfo\Documents\School\CPI 411 - Graphics for Games\Project Workspace\Assignment2\bin\Windows\x86\Debug\Content\skybox\SunsetPNG1.xnb
+C:\Users\maxfo\Documents\School\CPI 411 - Graphics for Games\Project Workspace\Assignment2\bin\Windows\x86\Debug\Content\skybox\SunsetPNG2.xnb
+C:\Users\maxfo\Documents\School\CPI 411 - Graphics for Games\Project Workspace\Assignment2\bin\Windows\x86\Debug\Content\skybox\SunsetPNG3.xnb
+C:\Users\maxfo\Documents\School\CPI 411 - Graphics for Games\Project Workspace\Assignment2\bin\Windows\x86\Debug\Content\skybox\SunsetPNG4.xnb
+C:\Users\maxfo\Documents\School\CPI 411 - Graphics for Games\Project Workspace\Assignment2\bin\Windows\x86\Debug\Content\skybox\SunsetPNG5.xnb
+C:\Users\maxfo\Documents\School\CPI 411 - Graphics for Games\Project Workspace\Assignment2\bin\Windows\x86\Debug\Content\skybox\SunsetPNG6.xnb
+C:\Users\maxfo\Documents\School\CPI 411 - Graphics for Games\Project Workspace\Assignment2\bin\Windows\x86\Debug\Content\EnvironmentMaps.xnb
+C:\Users\maxfo\Documents\School\CPI 411 - Graphics for Games\Project Workspace\Assignment2\bin\Windows\x86\Debug\Content\Helicopter.xnb
+C:\Users\maxfo\Documents\School\CPI 411 - Graphics for Games\Project Workspace\Assignment2\bin\Windows\x86\Debug\Content\HelicopterTexture.xnb
+C:\Users\maxfo\Documents\School\CPI 411 - Graphics for Games\Project Workspace\Assignment2\bin\Windows\x86\Debug\Content\HelicopterTexture_0.xnb
+C:\Users\maxfo\Documents\School\CPI 411 - Graphics for Games\Project Workspace\Assignment2\bin\Windows\x86\Debug\Content\Text.xnb
+C:\Users\maxfo\Documents\School\CPI 411 - Graphics for Games\Project Workspace\Assignment2\bin\Windows\x86\Debug\Assignment2.exe
+C:\Users\maxfo\Documents\School\CPI 411 - Graphics for Games\Project Workspace\Assignment2\bin\Windows\x86\Debug\Assignment2.pdb
+C:\Users\maxfo\Documents\School\CPI 411 - Graphics for Games\Project Workspace\Assignment2\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\maxfo\Documents\School\CPI 411 - Graphics for Games\Project Workspace\Assignment2\bin\Windows\x86\Debug\SimpleEngine.dll
+C:\Users\maxfo\Documents\School\CPI 411 - Graphics for Games\Project Workspace\Assignment2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\maxfo\Documents\School\CPI 411 - Graphics for Games\Project Workspace\Assignment2\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\maxfo\Documents\School\CPI 411 - Graphics for Games\Project Workspace\Assignment2\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\maxfo\Documents\School\CPI 411 - Graphics for Games\Project Workspace\Assignment2\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\maxfo\Documents\School\CPI 411 - Graphics for Games\Project Workspace\Assignment2\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\maxfo\Documents\School\CPI 411 - Graphics for Games\Project Workspace\Assignment2\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\maxfo\Documents\School\CPI 411 - Graphics for Games\Project Workspace\Assignment2\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\maxfo\Documents\School\CPI 411 - Graphics for Games\Project Workspace\Assignment2\bin\Windows\x86\Debug\SimpleEngine.pdb
+C:\Users\maxfo\Documents\School\CPI 411 - Graphics for Games\Project Workspace\Assignment2\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\maxfo\Documents\School\CPI 411 - Graphics for Games\Project Workspace\Assignment2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\maxfo\Documents\School\CPI 411 - Graphics for Games\Project Workspace\Assignment2\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\maxfo\Documents\School\CPI 411 - Graphics for Games\Project Workspace\Assignment2\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\maxfo\Documents\School\CPI 411 - Graphics for Games\Project Workspace\Assignment2\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\maxfo\Documents\School\CPI 411 - Graphics for Games\Project Workspace\Assignment2\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\maxfo\Documents\School\CPI 411 - Graphics for Games\Project Workspace\Assignment2\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\maxfo\Documents\School\CPI 411 - Graphics for Games\Project Workspace\Assignment2\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\maxfo\Documents\School\CPI 411 - Graphics for Games\Project Workspace\Assignment2\obj\x86\Debug\Assignment2.csprojAssemblyReference.cache
+C:\Users\maxfo\Documents\School\CPI 411 - Graphics for Games\Project Workspace\Assignment2\obj\x86\Debug\Assignment2.csproj.CopyComplete
+C:\Users\maxfo\Documents\School\CPI 411 - Graphics for Games\Project Workspace\Assignment2\obj\x86\Debug\Assignment2.exe
+C:\Users\maxfo\Documents\School\CPI 411 - Graphics for Games\Project Workspace\Assignment2\obj\x86\Debug\Assignment2.pdb
+C:\Users\maxfo\Desktop\From hard Drive\Project Workspace\Assignment2\obj\x86\Debug\Assignment2.csprojAssemblyReference.cache
+C:\Users\maxfo\Desktop\From hard Drive\Project Workspace\Assignment2\obj\x86\Debug\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\maxfo\Desktop\From hard Drive\Project Workspace\Assignment2\obj\x86\Debug\Assignment2.exe
+C:\Users\maxfo\Desktop\From hard Drive\Project Workspace\Assignment2\obj\x86\Debug\Assignment2.pdb
